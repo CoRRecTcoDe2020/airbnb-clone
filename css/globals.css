@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .button {
+        @apply px-2 py-2 ml-2 border border-sky-600 select-none
+        rounded-full cursor-pointer hover:shadow-lg active:scale-95 active:bg-gray-600
+        transition transform duration-100 ease-out text-white font-Poppins;
+    }
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
