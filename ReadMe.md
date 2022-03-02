@@ -1,7 +1,7 @@
 # Airbnb Clone
 
 # Modern Design! 🔥🔥🔥
-![Uploading screencapture-localhost-3000-2022-03-02-00_21_13.png…]()
+![screencapture-localhost-3000-2022-03-02-00_21_13](https://user-images.githubusercontent.com/77756002/156349779-26b74801-5394-4b97-9d35-67b9cf75d255.png)
 
 ## How to use
 
